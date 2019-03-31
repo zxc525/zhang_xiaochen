@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554032077 source:c:\users\acer\desktop\polynomial\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1554032163 c:\users\acer\desktop\polynomial\include\polynomial.h
+	<iostream>
+	<iostream>
+
+1554032077 source:c:\users\acer\desktop\polynomial\src\polynomial.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"Polynomial.h"
+
