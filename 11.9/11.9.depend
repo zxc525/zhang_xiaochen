@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554284005 source:c:\users\administrator\desktop\11.9\main.cpp
+	<iostream>
+	<iomanip>
+	"Package.h"
+
+1554283904 c:\users\administrator\desktop\11.9\include\package.h
+	<string>
+
+1554284287 source:c:\users\administrator\desktop\11.9\src\package.cpp
+	<iostream>
+	<stdexcept>
+	"Package.h"
+
+1554284006 source:d:\桌面\学习\c++\张晓晨\11.9\main.cpp
+	<iostream>
+	<iomanip>
+	"Package.h"
+
+1554283906 d:\桌面\学习\c++\张晓晨\11.9\include\package.h
+	<string>
+
+1554284288 source:d:\桌面\学习\c++\张晓晨\11.9\src\package.cpp
+	<iostream>
+	<stdexcept>
+	"Package.h"
+
