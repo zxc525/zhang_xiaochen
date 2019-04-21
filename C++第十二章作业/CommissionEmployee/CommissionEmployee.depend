@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1554889182 source:c:\users\administrator\desktop\commissionemployee\main.cpp
+	<iostream>
+	<iomanip>
+	"BasePlusCommissionEmployee.h"
+
+1554889276 c:\users\administrator\desktop\commissionemployee\include\commissionemployee.h
+	<string>
+
+1554887540 source:c:\users\administrator\desktop\commissionemployee\src\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1554889188 c:\users\administrator\desktop\commissionemployee\include\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1554889212 source:c:\users\administrator\desktop\commissionemployee\src\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
